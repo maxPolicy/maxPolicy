@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <a href="ТВОЙ_САЙТ_ИЛИ_ПРОФИЛЬ">
+  <a href="[ТВОЙ_САЙТ_ИЛИ_ПРОФИЛЬ](https://github.com/maxPolicy)">
     <img width="60" height="60" src="https://avatars.githubusercontent.com/u/49036543?v=4" />
   </a>
   <br>
@@ -34,11 +34,11 @@
 <summary><b>🚀&nbsp;Key&nbsp;Projects</b></summary>
 <br>
 <ul>
-<li><b>Custom WP Theme</b><br>A lightweight, SEO-optimized theme. <i>(PHP, JS, CSS)</i> - <a href="СЫЛКА">Link</a></li>
+<li><b>Custom WP Theme</b><br>A lightweight, SEO-optimized theme. <i>(PHP, JS, CSS)</i> - <a href="link22">Link</a></li>
 <br>
-<li><b>AI Assistant Plugin</b><br>Integrating OpenAI API. <i>(Python, PHP)</i> - <a href="СЫЛКА">Repo</a></li>
+<li><b>AI Assistant Plugin</b><br>Integrating OpenAI API. <i>(Python, PHP)</i> - <a href="link22">Repo</a></li>
 <br>
-<li><b>E-commerce</b><br>Advanced custom functionality for WooCommerce. <i>(PHP, JS)</i> - <a href="СЫЛКА">Link</a></li>
+<li><b>E-commerce</b><br>Advanced custom functionality for WooCommerce. <i>(PHP, JS)</i> - <a href="link22">Link</a></li>
 </ul>
 </details>
 
