@@ -9,7 +9,7 @@
   </a>
   <br>
   <p>
-    <a href="ССЫЛКА_TELEGRAM"><img height="18" src="https://raw.githubusercontent.com/jmaxPolicy/maxPolicy/blob/main/1.png?sanitize=true" /></a>
+    <a href="ССЫЛКА_TELEGRAM"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/telegram.svg?sanitize=true" /></a>
     <a href="ССЫЛКА_TWITTER"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
     <a href="mailto:ТВОЙ_EMAIL"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
   </p>
@@ -21,10 +21,6 @@
   </p>
 </div>
 
-<div align="center">
-<table width="100%">
-<tr>
-<td valign="top" align="left" width="50%">
 <details>
 <summary><b>🛠️&nbsp;Tech&nbsp;Stack&nbsp;&&nbsp;Skills</b></summary>
 <br>
@@ -34,9 +30,9 @@
 <code>WordPress Expert</code> <code>Custom Themes</code> <code>Plugin Development</code><br><br>
 <b>Currently Exploring</b><br>
 <code>Conversational AI</code> <code>LLM Integration</code>
+<br><br>
 </details>
-</td>
-<td valign="top" align="left" width="50%">
+
 <details>
 <summary><b>🚀&nbsp;Key&nbsp;Projects</b></summary>
 <br>
@@ -48,12 +44,10 @@
 <li><b>E-commerce</b><br>Advanced custom functionality for WooCommerce. <i>(PHP, JS)</i> - <a href="СЫЛКА">Link</a></li>
 </ul>
 </details>
-</td>
-</tr>
-</table>
-</div>
 
 <div align="center">
   <br>
   <br>
   <p><i>"Code is poetry, but execution is everything."</i></p>
+  <br>
+</div>
