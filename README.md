@@ -43,8 +43,6 @@
 </details>
 
 <div align="center">
-  <br>
-  <br>
   <p><i>"Code is poetry, but execution is everything."</i></p>
   <br>
 </div>
