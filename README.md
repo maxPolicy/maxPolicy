@@ -3,7 +3,6 @@
   <br>
   <br>
   <br>
-  <br>
   <a href="ТВОЙ_САЙТ_ИЛИ_ПРОФИЛЬ">
     <img width="60" height="60" src="https://avatars.githubusercontent.com/u/49036543?v=4" />
   </a>
