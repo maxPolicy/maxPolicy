@@ -22,29 +22,36 @@
 </div>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" align="left" width="50%">
         <details>
         <summary><b>🛠️ Tech Stack & Skills</b></summary>
         <br>
         
-        **Core Languages**<br>`PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3`<br><br>
-        **Web Ecosystem**<br>`WordPress Expert` `Custom Themes` `Plugin Development`<br><br>
-        **Currently Exploring**<br>`Conversational AI` `LLM Integration`
+        <b>Core Languages</b><br>
+        <code>PHP</code> <code>JavaScript (ES6+)</code> <code>Python</code> <code>HTML5</code> <code>CSS3</code><br><br>
+        
+        <b>Web Ecosystem</b><br>
+        <code>WordPress Expert</code> <code>Custom Themes</code> <code>Plugin Development</code><br><br>
+        
+        <b>Currently Exploring</b><br>
+        <code>Conversational AI</code> <code>LLM Integration</code>
         
         </details>
       </td>
-      <td valign="top" align="left">
+      <td valign="top" align="left" width="50%">
         <details>
         <summary><b>🚀 Key Projects</b></summary>
         <br>
         
-        | Project Name                | Description                                            | Tech Stack   | Live Demo |
-        | :-------------------------- | :----------------------------------------------------- | :----------- | :-------- |
-        | **Custom WP Theme** | A lightweight, SEO-optimized theme built from scratch. | PHP, JS, CSS | [Link]    |
-        | **AI Assistant Plugin** | Integrating OpenAI API into a local environment tool.  | Python, PHP  | [Repo]    |
-        | **E-commerce** | Advanced custom functionality for a WooCommerce store. | PHP, JS      | [Link]    |
+        <ul>
+          <li><b>Custom WP Theme</b><br>A lightweight, SEO-optimized theme. <i>(PHP, JS, CSS)</i> - <a href="СЫЛКА">Link</a></li>
+          <br>
+          <li><b>AI Assistant Plugin</b><br>Integrating OpenAI API. <i>(Python, PHP)</i> - <a href="СЫЛКА">Repo</a></li>
+          <br>
+          <li><b>E-commerce</b><br>Advanced custom functionality for WooCommerce. <i>(PHP, JS)</i> - <a href="СЫЛКА">Link</a></li>
+        </ul>
 
         </details>
       </td>
