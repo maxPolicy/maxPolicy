@@ -21,21 +21,19 @@
 </div>
 
 <details>
-<summary><h3>🛠️ Tech Stack & Skills</h3></summary>
+<summary><b>🛠️ Tech Stack & Skills</b></summary>
+<br>
 
-#### Core Languages
-`PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3`
+**Core Languages** `PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3`
 
-#### Web Ecosystem
-`WordPress Expert` `Custom Themes` `Plugin Development` `Elementor` `Oxygen Builder`
+**Web Ecosystem** `WordPress Expert` `Custom Themes` `Plugin Development` `Elementor` `Oxygen Builder`
 
-#### Currently Exploring
-`Conversational AI` `LLM Integration` `End-to-End Product Development`
-
+**Currently Exploring** `Conversational AI` `LLM Integration` `End-to-End Product Development`
+<br>
 </details>
-
 <details>
-<summary><h3>🚀 Key Projects</h3></summary>
+<summary><b>🚀 Key Projects</b></summary>
+<br>
 
 | Project Name                | Description                                            | Tech Stack   | Live Demo |
 | :-------------------------- | :----------------------------------------------------- | :----------- | :-------- |
