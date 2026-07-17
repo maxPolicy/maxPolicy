@@ -26,7 +26,7 @@
 <tr>
 <td valign="top" align="left" width="50%">
 <details>
-<summary><b>🛠️ Tech Stack & Skills</b></summary>
+<summary><b>🛠️&nbsp;Tech&nbsp;Stack&nbsp;&&nbsp;Skills</b></summary>
 <br>
 <b>Core Languages</b><br>
 <code>PHP</code> <code>JavaScript (ES6+)</code> <code>Python</code> <code>HTML5</code> <code>CSS3</code><br><br>
@@ -38,7 +38,7 @@
 </td>
 <td valign="top" align="left" width="50%">
 <details>
-<summary><b>🚀 Key Projects</b></summary>
+<summary><b>🚀&nbsp;Key&nbsp;Projects</b></summary>
 <br>
 <ul>
 <li><b>Custom WP Theme</b><br>A lightweight, SEO-optimized theme. <i>(PHP, JS, CSS)</i> - <a href="СЫЛКА">Link</a></li>
@@ -57,5 +57,3 @@
   <br>
   <br>
   <p><i>"Code is poetry, but execution is everything."</i></p>
-  <br>
-</div>
