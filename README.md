@@ -9,7 +9,6 @@
   </a>
   <br>
   <p>
-    <a href="https://t.me/maxPolicy"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/telegram.svg?sanitize=true" /></a>
     <a href="https://t.me/maxPolicy"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
     <a href="mailto:maximbp@proton.me"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
   </p>
