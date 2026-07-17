@@ -15,9 +15,9 @@
   </p>
   Hi, I'm Max, developer from Republic of Moldova.
   <p>
-    <a href="ССЫЛКА_TELEGRAM">Telegram</a> • 
-    <a href="ССЫЛКА_TWITTER">Twitter</a> • 
-    <a href="mailto:ТВОЙ_EMAIL">E-Mail</a>
+    <a href="https://t.me/maxPolicy">Telegram</a> • 
+    <a href="https://t.me/maxPolicy">Twitter</a> • 
+    <a href="mailto:maximbp@proton.me">E-Mail</a>
   </p>
 </div>
 
