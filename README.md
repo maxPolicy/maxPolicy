@@ -9,9 +9,9 @@
   </a>
   <br>
   <p>
-    <a href="ССЫЛКА_TELEGRAM"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/telegram.svg?sanitize=true" /></a>
-    <a href="ССЫЛКА_TWITTER"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
-    <a href="mailto:ТВОЙ_EMAIL"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
+    <a href="https://t.me/maxPolicy"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/telegram.svg?sanitize=true" /></a>
+    <a href="https://t.me/maxPolicy"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
+    <a href="mailto:maximbp@proton.me"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
   </p>
   Hi, I'm Max, developer from Republic of Moldova.
   <p>
