@@ -21,25 +21,22 @@
   </p>
 </div>
 
----
-
 <details>
-<summary><h2>🛠️ Tech Stack & Skills</h2></summary>
+<summary><h3>🛠️ Tech Stack & Skills</h3></summary>
 
-### Core Languages
+#### Core Languages
 `PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3`
 
-### Web Ecosystem
+#### Web Ecosystem
 `WordPress Expert` `Custom Themes` `Plugin Development` `Elementor` `Oxygen Builder`
 
-### Currently Exploring
+#### Currently Exploring
 `Conversational AI` `LLM Integration` `End-to-End Product Development`
 
 </details>
 
 <details>
-<summary><h2>🚀 Key Projects</h2></summary>
-
+<summary><h3>🚀 Key Projects</h3></summary>
 
 | Project Name                | Description                                            | Tech Stack   | Live Demo |
 | :-------------------------- | :----------------------------------------------------- | :----------- | :-------- |
@@ -48,8 +45,6 @@
 | **E-commerce Optimization** | Advanced custom functionality for a WooCommerce store. | PHP, JS      | [Link]    |
 
 </details>
-
----
 
 <div align="center">
   <br>
